@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#64b5f6"
+    tools:context="com.korzh.user.activityfragmentcommunication.fragment.FirstFragment">
+
+    <Button
+        android:id="@+id/btn_click"
+        android:layout_gravity="center"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:text="2" />
+
+</FrameLayout>
